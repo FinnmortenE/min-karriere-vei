@@ -1,0 +1,90 @@
+body {
+  background-color: #012634;
+  font-family: serif;
+}
+
+h1 {
+  text-align: center;
+  color: grey;
+}
+
+h2 {
+  text-align: center;
+  color: grey;
+}
+
+p {
+  color: grey;
+  text-align: center;
+}
+
+.bilde {
+  width: 200px;
+  border-radius: 50%;
+  border-color: grey;
+  border-width: 3px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+
+.plan {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  color: grey;
+}
+
+.en {
+  margin-top: 30px;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+  color: grey;
+}
+
+.to {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+  color: grey;
+}
+
+.tre {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+  color: grey;
+}
+
+.fire {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+  color: grey;
+}
+
+.fem {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+  color: grey;
+}
+
+.link1 {
+  color: grey;
+  font-weight: bold;
+}
+
+.link2 {
+  color: grey;
+  font-weight: bold;
+}
+
+.link3 {
+  color: grey;
+  font-weight: bold;
+}
